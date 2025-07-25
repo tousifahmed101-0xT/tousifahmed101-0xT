@@ -28,9 +28,10 @@
 ### 📊 GitHub Stats — Welcome to the Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tousifahmed101&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifahmed101&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tousifahmed101&show_icons=true&theme=radical&hide_border=true&title_color=ff0066&icon_color=ff0066&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifahmed101&layout=compact&theme=radical&hide_border=true&title_color=ff0066&text_color=ffffff&bg_color=0d1117" width="48%"/>
 </p>
+
 
 ---
 
