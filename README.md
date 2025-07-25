@@ -28,7 +28,7 @@
 ### 👾 GitHub Console — Terminal Stats Streaming 🧠
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Initializing+Cyber+Portfolio...;Analyzing+Threat+Vectors...;Deploying+Payloads...;Welcome+to+Tousif's+Hub+%F0%9F%95%B5%EF%B8%8F" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=435&lines=Initializing+Cyber+Portfolio...;Analyzing+Threat+Vectors...;Deploying+Payloads...;Welcome+to+Tousif's+Hub+%F0%9F%95%B5%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
