@@ -26,12 +26,12 @@
 
 ---
 
-### 📊 GitHub Stats (Signal Only, No Noise)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tousifahmed101&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifahmed101&layout=compact&theme=radical" width="48%"/>
-</p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tousifahmed101&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifahmed101&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9f&text_color=ffffff&bg_color=0d1117" width="48%"/>
+</p>
 ---
 
 ### 🐍 Contribution Graph Snake
