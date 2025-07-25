@@ -35,25 +35,24 @@
 ### 📊 GitHub Stats — Welcome to the Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tousifahmed101&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifahmed101&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9f&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tousifahmed101-0xT&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifahmed101-0xT&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff9f&text_color=ffffff&bg_color=0d1117" width="48%"/>
 </p>
-
 
 ---
 
 ### 🐍 Contribution Graph Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tousifahmed101/tousifahmed101/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tousifahmed101-0xT/tousifahmed101-0xT/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- 🔗 [AutoRecon Suite (Coming Soon)](https://github.com/tousifahmed101)  
-- 🐞 [Payload Lab – XSS & Bypass Playground](https://github.com/tousifahmed101)  
-- 📜 [Bug Bounty Notes & Writeups (Private/Planned)](https://github.com/tousifahmed101)
+- 🔗 [AutoRecon Suite (Coming Soon)](https://github.com/tousifahmed101-0xT)  
+- 🐞 [Payload Lab – XSS & Bypass Playground](https://github.com/tousifahmed101-0xT)  
+- 📜 [Bug Bounty Notes & Writeups (Private/Planned)](https://github.com/tousifahmed101-0xT)
 
 ---
 
@@ -65,7 +64,7 @@
 ---
 
 ### 🧭 Connect
-- 🔐 Projects: [GitHub/tousifahmed101](https://github.com/tousifahmed101)  
+- 🔐 Projects: [GitHub/tousifahmed101-0xT](https://github.com/tousifahmed101-0xT)  
 - ✍️ Writeups/Blog: (Coming Soon)  
 - 🎯 Status: Currently learning & building — silently.
 
