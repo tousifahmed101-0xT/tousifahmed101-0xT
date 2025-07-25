@@ -34,6 +34,14 @@
 
 ---
 
+### 🐍 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tousifahmed101/tousifahmed101/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 📂 Featured Projects
 - 🔗 [AutoRecon Suite (Coming Soon)](https://github.com/tousifahmed101)  
 - 🐞 [Payload Lab – XSS & Bypass Playground](https://github.com/tousifahmed101)  
