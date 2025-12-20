@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile 👋  
-I’m Tousif, a cybersecurity undergraduate focused on web application security,
+I’m Tousif Ahmed, a cybersecurity undergraduate focused on web application security,
 vulnerability assessment, and hands-on security labs.
 
 
