@@ -4,7 +4,7 @@ vulnerability assessment, and hands-on security labs.
 
 
 I use this GitHub profile to document my learning, experiments, and practice work
-in a clear and ethical manner.
+in a clear and ethical manner. 
 
 ## Areas of Focus
 - Web Application Penetration Testing & Security Assessment  
