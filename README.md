@@ -96,7 +96,7 @@ Every lab, every finding, and every script produced here is treated as a profess
 
 [![Email](https://img.shields.io/badge/Gmail-Send_a_Mail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:tousifahmed48sdq@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/tousifahmed101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/tousif-ahmed-0xt)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587111850234)
 &nbsp;
